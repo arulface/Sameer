@@ -1,0 +1,10 @@
+C:\Users\peruj\source\repos\DataMigration\DataMigration\obj\Debug\DataMigration.csprojAssemblyReference.cache
+C:\Users\peruj\source\repos\DataMigration\DataMigration\obj\Debug\DataMigration.csproj.CoreCompileInputs.cache
+C:\Users\peruj\source\repos\DataMigration\DataMigration\bin\Debug\DataMigration.exe.config
+C:\Users\peruj\source\repos\DataMigration\DataMigration\bin\Debug\DataMigration.exe
+C:\Users\peruj\source\repos\DataMigration\DataMigration\bin\Debug\DataMigration.pdb
+C:\Users\peruj\source\repos\DataMigration\DataMigration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\peruj\source\repos\DataMigration\DataMigration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\peruj\source\repos\DataMigration\DataMigration\obj\Debug\DataMigration.csproj.CopyComplete
+C:\Users\peruj\source\repos\DataMigration\DataMigration\obj\Debug\DataMigration.exe
+C:\Users\peruj\source\repos\DataMigration\DataMigration\obj\Debug\DataMigration.pdb
